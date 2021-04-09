@@ -1,2 +1,2 @@
-#!/bin/python3
-print("Hi. How are you")
+ #!/bin/python3
+print("Hi. How are you today ?")
